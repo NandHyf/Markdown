@@ -104,7 +104,7 @@
 ### 加粗
 
 ``` markdown
-ctrl + B
+Ctrl + B
 ```
 
 
@@ -112,7 +112,7 @@ ctrl + B
 ### 斜体
 
 ``` markdown
-ctrl + I
+Ctrl + I
 ```
 
 
