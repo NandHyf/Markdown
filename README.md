@@ -8,7 +8,7 @@
 
 **Typora**✅
 
-**VS Code** ✅ **(+ "Markdown All in One")**
+**VS Code**✅ **(+ "Markdown All in One")**
 
 
 
