@@ -4,7 +4,7 @@
 
 ### 🚧持续更新中
 
-语法支持: Typora✅ VS Code✅
+**语法支持: Typora✅ VS Code✅**
 
 ## 通用语法
 
