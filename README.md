@@ -4,9 +4,9 @@
 
 ### 🚧持续更新中
 
-**语法支持: **
+**语法支持:**
 
-**Typora✅ **
+**Typora✅**
 
 **VS Code✅(+ "Markdown All in One")**
 
