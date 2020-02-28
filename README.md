@@ -6,9 +6,9 @@
 
 **语法支持:**
 
-**Typora✅**
+**Typora**✅
 
-**VS Code✅(+ "Markdown All in One")**
+**VS Code** ✅ **(+ "Markdown All in One")**
 
 
 
