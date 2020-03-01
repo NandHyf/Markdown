@@ -63,6 +63,7 @@
 - [加粗](#加粗)
 - [斜体](#斜体)
 - [下划线](#下划线)
+- [删除线](#删除线)
 - [缩进与反缩进](#缩进与反缩进)
 
 ## 参考资料
@@ -295,6 +296,15 @@ Command + I (Mac OS)
 ```markdown
 Ctrl + U (Windows)
 Command + U (Mac OS)
+```
+
+
+
+### 删除线
+
+```markdown
+Ctrl + S (Windows)
+Command + S (Mac OS)
 ```
 
 
